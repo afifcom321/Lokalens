@@ -338,7 +338,7 @@ Issues and pull requests are welcome. Because WebRTC behavior depends heavily on
 
 ## License
 
-Add a `LICENSE` file of your choice before publishing the repository.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Disclaimer
 
